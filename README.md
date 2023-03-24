@@ -1,2 +1,0 @@
-# Dropout_LogisticRegression
-LogisticRegression
